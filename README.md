@@ -1,3 +1,11 @@
+## Manual deployment task
+- Cloudfront: https://d5srcxilt3gqk.cloudfront.net/
+- S3: https://marco-guzman-epam-shop-react-cloudfront.s3.amazonaws.com/index.html
+
+## Serverless deployment task
+- Cloudfront: https://d12okp4zn60tmk.cloudfront.net
+- S3: https://marco-guzman-epam-shop-react-cloudfront-serverless.s3.eu-west-1.amazonaws.com/index.html
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
